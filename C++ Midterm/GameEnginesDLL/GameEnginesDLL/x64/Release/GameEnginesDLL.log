@@ -1,0 +1,29 @@
+﻿  CheckpointLog.cpp
+C:\Users\thaid\OneDrive\Documents\Year 3\Game Engine Design and Implementation\INFR 3110 Repo\C++ Midterm\GameEnginesDLL\GameEnginesDLL\CheckpointLog.h(19,27): warning C4251:  'CheckpointLog::m_RTBC': class 'std::vector<float,std::allocator<_Ty>>' needs to have dll-interface to be used by clients of class 'CheckpointLog'
+C:\Users\thaid\OneDrive\Documents\Year 3\Game Engine Design and Implementation\INFR 3110 Repo\C++ Midterm\GameEnginesDLL\GameEnginesDLL\CheckpointLog.h(19,27): warning C4251:         with
+C:\Users\thaid\OneDrive\Documents\Year 3\Game Engine Design and Implementation\INFR 3110 Repo\C++ Midterm\GameEnginesDLL\GameEnginesDLL\CheckpointLog.h(19,27): warning C4251:         [
+C:\Users\thaid\OneDrive\Documents\Year 3\Game Engine Design and Implementation\INFR 3110 Repo\C++ Midterm\GameEnginesDLL\GameEnginesDLL\CheckpointLog.h(19,27): warning C4251:             _Ty=float
+C:\Users\thaid\OneDrive\Documents\Year 3\Game Engine Design and Implementation\INFR 3110 Repo\C++ Midterm\GameEnginesDLL\GameEnginesDLL\CheckpointLog.h(19,27): warning C4251:         ]
+C:\Users\thaid\OneDrive\Documents\Year 3\Game Engine Design and Implementation\INFR 3110 Repo\C++ Midterm\GameEnginesDLL\GameEnginesDLL\CheckpointLog.h(19): message :  see declaration of 'std::vector<float,std::allocator<_Ty>>'
+C:\Users\thaid\OneDrive\Documents\Year 3\Game Engine Design and Implementation\INFR 3110 Repo\C++ Midterm\GameEnginesDLL\GameEnginesDLL\CheckpointLog.h(19): message :         with
+C:\Users\thaid\OneDrive\Documents\Year 3\Game Engine Design and Implementation\INFR 3110 Repo\C++ Midterm\GameEnginesDLL\GameEnginesDLL\CheckpointLog.h(19): message :         [
+C:\Users\thaid\OneDrive\Documents\Year 3\Game Engine Design and Implementation\INFR 3110 Repo\C++ Midterm\GameEnginesDLL\GameEnginesDLL\CheckpointLog.h(19): message :             _Ty=float
+C:\Users\thaid\OneDrive\Documents\Year 3\Game Engine Design and Implementation\INFR 3110 Repo\C++ Midterm\GameEnginesDLL\GameEnginesDLL\CheckpointLog.h(19): message :         ]
+  Wrapper.cpp
+C:\Users\thaid\OneDrive\Documents\Year 3\Game Engine Design and Implementation\INFR 3110 Repo\C++ Midterm\GameEnginesDLL\GameEnginesDLL\CheckpointLog.cpp(27,22): warning C4267:  'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\thaid\OneDrive\Documents\Year 3\Game Engine Design and Implementation\INFR 3110 Repo\C++ Midterm\GameEnginesDLL\GameEnginesDLL\CheckpointLog.h(19,27): warning C4251:  'CheckpointLog::m_RTBC': class 'std::vector<float,std::allocator<_Ty>>' needs to have dll-interface to be used by clients of class 'CheckpointLog'
+C:\Users\thaid\OneDrive\Documents\Year 3\Game Engine Design and Implementation\INFR 3110 Repo\C++ Midterm\GameEnginesDLL\GameEnginesDLL\CheckpointLog.h(19,27): warning C4251:         with
+C:\Users\thaid\OneDrive\Documents\Year 3\Game Engine Design and Implementation\INFR 3110 Repo\C++ Midterm\GameEnginesDLL\GameEnginesDLL\CheckpointLog.h(19,27): warning C4251:         [
+C:\Users\thaid\OneDrive\Documents\Year 3\Game Engine Design and Implementation\INFR 3110 Repo\C++ Midterm\GameEnginesDLL\GameEnginesDLL\CheckpointLog.h(19,27): warning C4251:             _Ty=float
+C:\Users\thaid\OneDrive\Documents\Year 3\Game Engine Design and Implementation\INFR 3110 Repo\C++ Midterm\GameEnginesDLL\GameEnginesDLL\CheckpointLog.h(19,27): warning C4251:         ]
+C:\Users\thaid\OneDrive\Documents\Year 3\Game Engine Design and Implementation\INFR 3110 Repo\C++ Midterm\GameEnginesDLL\GameEnginesDLL\CheckpointLog.h(19): message :  see declaration of 'std::vector<float,std::allocator<_Ty>>'
+C:\Users\thaid\OneDrive\Documents\Year 3\Game Engine Design and Implementation\INFR 3110 Repo\C++ Midterm\GameEnginesDLL\GameEnginesDLL\CheckpointLog.h(19): message :         with
+C:\Users\thaid\OneDrive\Documents\Year 3\Game Engine Design and Implementation\INFR 3110 Repo\C++ Midterm\GameEnginesDLL\GameEnginesDLL\CheckpointLog.h(19): message :         [
+C:\Users\thaid\OneDrive\Documents\Year 3\Game Engine Design and Implementation\INFR 3110 Repo\C++ Midterm\GameEnginesDLL\GameEnginesDLL\CheckpointLog.h(19): message :             _Ty=float
+C:\Users\thaid\OneDrive\Documents\Year 3\Game Engine Design and Implementation\INFR 3110 Repo\C++ Midterm\GameEnginesDLL\GameEnginesDLL\CheckpointLog.h(19): message :         ]
+     Creating library C:\Users\thaid\OneDrive\Documents\Year 3\Game Engine Design and Implementation\INFR 3110 Repo\C++ Midterm\GameEnginesDLL\x64\Release\GameEnginesDLL.lib and object C:\Users\thaid\OneDrive\Documents\Year 3\Game Engine Design and Implementation\INFR 3110 Repo\C++ Midterm\GameEnginesDLL\x64\Release\GameEnginesDLL.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 97 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GameEnginesDLL.vcxproj -> C:\Users\thaid\OneDrive\Documents\Year 3\Game Engine Design and Implementation\INFR 3110 Repo\C++ Midterm\GameEnginesDLL\x64\Release\GameEnginesDLL.dll
